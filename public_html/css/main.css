@@ -1,0 +1,60 @@
+/*!
+* Start Bootstrap - Heroic Features HTML Template (http://startbootstrap.com)
+* Code licensed under the Apache License v2.0.
+* For details, see http://www.apache.org/licenses/LICENSE-2.0.
+*/
+
+body {
+  padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.hero-spacer {
+  margin-top: 50px;
+}
+
+.hero-feature {
+  margin-bottom: 30px;
+}
+
+footer {
+  margin: 50px 0;
+}
+
+mark-sdsu {
+  color: rgb(196,0,59);
+  background: none;
+}
+
+.btn-primary {
+  background: rgb(196,0,59);
+  border-color: rgb(196,0,59);
+}
+
+.row-height {
+
+}
+.col-height {
+
+}
+
+.max-width {
+  width: 100%;
+}
+
+.facebook {
+  background-color: rgb(70, 100, 156);;
+  border-color: rgb(70, 100, 156);
+  color: white;
+}
+
+.slack {
+  background-color: rgb(42, 178, 123);;
+  border-color: rgb(42, 178, 123);
+  color: white;
+}
+
+.displayed{
+    display: block;
+    margin-left: 200px;
+    margin-right: auto;
+}
