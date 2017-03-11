@@ -1,52 +1,19 @@
+SDSU CDT Website: GitHub for version control.
 
-TITLE: 
-Legal - One Page Responsive Free HTML5 template
+As of 26 Feb 2017 this website is maintained by: Ohmeko Ocampo, Marcus Butler, and Eric Ly.
 
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+This folder hold all the website documents.
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Excluded from this git repository is:
 
+CDT pictures, doesn't hold all the pictures taken in the club.
 
-CREDITS:
+Note: Dear Future Webadmin(s),
 
-Bootstrap
-http://getbootstrap.com/
+Please make another README.md file if you are now in charge of the website and place this current README.md
 
-jQuery
-http://jquery.com/
+under the folder /archive. Thank you very much, keep on hacking. SDSU Hacker!
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
+Sincerely,
 
-Modernizr
-http://modernizr.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Map
-http://maps.google.com
-
-Icomoon
-https://icomoon.io/app/
-
-Simple Line Icons
-https://github.com/thesabbir/simple-line-icons
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-Demo Images:
-http://unsplash.com
+Meko, Eric, and Marcus.
